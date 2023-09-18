@@ -1,0 +1,14 @@
+D:\pk\КПП\c#\lab3\lab3\bin\Debug\net7.0\lab3.exe
+D:\pk\КПП\c#\lab3\lab3\bin\Debug\net7.0\lab3.deps.json
+D:\pk\КПП\c#\lab3\lab3\bin\Debug\net7.0\lab3.runtimeconfig.json
+D:\pk\КПП\c#\lab3\lab3\bin\Debug\net7.0\lab3.dll
+D:\pk\КПП\c#\lab3\lab3\bin\Debug\net7.0\lab3.pdb
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\lab3.AssemblyInfoInputs.cache
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\lab3.AssemblyInfo.cs
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\lab3.csproj.CoreCompileInputs.cache
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\lab3.dll
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\refint\lab3.dll
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\lab3.pdb
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\lab3.genruntimeconfig.cache
+D:\pk\КПП\c#\lab3\lab3\obj\Debug\net7.0\ref\lab3.dll
